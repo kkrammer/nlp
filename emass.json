@@ -1,0 +1,156 @@
+{
+    "happy": {
+        "CVE-2023-26112": {
+            "CVE ID": "CVE-2023-26112",
+            "Type": "python",
+            "Severity": "low",
+            "Packages": "configobj",
+            "Source Package": "",
+            "Vulnerability Link": "https://nvd.nist.gov/vuln/detail/CVE-2023-26112"
+        },
+        "CVE-2021-41134": {
+            "CVE ID": "CVE-2021-41134",
+            "Type": "python",
+            "Severity": "medium",
+            "Packages": "nbdime",
+            "Source Package": "",
+            "Vulnerability Link": "https://nvd.nist.gov/vuln/detail/CVE-2021-41134"
+        },
+        "PRISMA-2023-0024": {
+            "CVE ID": "PRISMA-2023-0024",
+            "Type": "python",
+            "Severity": "high",
+            "Packages": "aiohttp",
+            "Source Package": "",
+            "Vulnerability Link": "https://github.com/aio-libs/aiohttp/issues/7208"
+        },
+        "CVE-2022-40897": {
+            "CVE ID": "CVE-2022-40897",
+            "Type": "python",
+            "Severity": "medium",
+            "Packages": "setuptools",
+            "Source Package": "",
+            "Vulnerability Link": "https://nvd.nist.gov/vuln/detail/CVE-2022-40897"
+        },
+        "PRISMA-2022-0168": {
+            "CVE ID": "PRISMA-2022-0168",
+            "Type": "python",
+            "Severity": "high",
+            "Packages": "pip",
+            "Source Package": "",
+            "Vulnerability Link": "https://github.com/pypa/pip/issues/8606"
+        },
+        "CVE-2022-3705": {
+            "CVE ID": "CVE-2022-3705",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-enhanced",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-3705"
+        },
+        "CVE-2021-45985": {
+            "CVE ID": "CVE-2021-45985",
+            "Type": "OS",
+            "Severity": "moderate",
+            "Packages": "lua-libs",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2021-45985"
+        },
+        "CVE-2022-2183": {
+            "CVE ID": "CVE-2022-2183",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-enhanced",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-2183"
+        },
+        "CVE-2023-24329": {
+            "CVE ID": "CVE-2023-24329",
+            "Type": "OS",
+            "Severity": "important",
+            "Packages": "python3-libs",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2023-24329"
+        },
+        "CVE-2022-2980": {
+            "CVE ID": "CVE-2022-2980",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-common",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-2980"
+        },
+        "CVE-2022-2182": {
+            "CVE ID": "CVE-2022-2182",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-filesystem",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-2182"
+        },
+        "CVE-2022-2522": {
+            "CVE ID": "CVE-2022-2522",
+            "Type": "OS",
+            "Severity": "critical",
+            "Packages": "vim-enhanced",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-2522"
+        },
+        "CVE-2022-3235": {
+            "CVE ID": "CVE-2022-3235",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-common",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-3235"
+        },
+        "CVE-2023-24593": {
+            "CVE ID": "CVE-2023-24593",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "glib2",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2023-24593"
+        },
+        "CVE-2021-35938": {
+            "CVE ID": "CVE-2021-35938",
+            "Type": "OS",
+            "Severity": "moderate",
+            "Packages": "rpm-build-libs",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2021-35938"
+        },
+        "CVE-2022-3037": {
+            "CVE ID": "CVE-2022-3037",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-filesystem",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-3037"
+        },
+        "CVE-2023-25180": {
+            "CVE ID": "CVE-2023-25180",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "glib2",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2023-25180"
+        },
+        "CVE-2022-3256": {
+            "CVE ID": "CVE-2022-3256",
+            "Type": "OS",
+            "Severity": "low",
+            "Packages": "vim-minimal",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2022-3256"
+        },
+        "CVE-2023-29469": {
+            "CVE ID": "CVE-2023-29469",
+            "Type": "OS",
+            "Severity": "critical",
+            "Packages": "python3-libxml2",
+            "Source Package": "",
+            "Vulnerability Link": "https://access.redhat.com/security/cve/CVE-2023-29469"
+        }
+    }
+}
