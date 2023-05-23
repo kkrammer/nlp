@@ -1,5 +1,5 @@
 import requests
-from requests_html import HTMLSession
+from requests import HTMLSession
 s = HTMLSession()
 
 query = 'london'

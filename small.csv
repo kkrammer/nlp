@@ -1,0 +1,20 @@
+CVE ID,Type,Severity,Packages,Source Package,Vulnerability Link
+CVE-2023-26112,python,low,configobj,,https://nvd.nist.gov/vuln/detail/CVE-2023-26112
+CVE-2021-41134,python,medium,nbdime,,https://nvd.nist.gov/vuln/detail/CVE-2021-41134
+PRISMA-2023-0024,python,high,aiohttp,,https://github.com/aio-libs/aiohttp/issues/7208
+CVE-2022-40897,python,medium,setuptools,,https://nvd.nist.gov/vuln/detail/CVE-2022-40897
+PRISMA-2022-0168,python,high,pip,,https://github.com/pypa/pip/issues/8606
+CVE-2022-3705,OS,low,vim-enhanced,,https://access.redhat.com/security/cve/CVE-2022-3705
+CVE-2021-45985,OS,moderate,lua-libs,,https://access.redhat.com/security/cve/CVE-2021-45985
+CVE-2022-2183,OS,low,vim-enhanced,,https://access.redhat.com/security/cve/CVE-2022-2183
+CVE-2023-24329,OS,important,python3-libs,,https://access.redhat.com/security/cve/CVE-2023-24329
+CVE-2022-2980,OS,low,vim-common,,https://access.redhat.com/security/cve/CVE-2022-2980
+CVE-2022-2182,OS,low,vim-filesystem,,https://access.redhat.com/security/cve/CVE-2022-2182
+CVE-2022-2522,OS,critical,vim-enhanced,,https://access.redhat.com/security/cve/CVE-2022-2522
+CVE-2022-3235,OS,low,vim-common,,https://access.redhat.com/security/cve/CVE-2022-3235
+CVE-2023-24593,OS,low,glib2,,https://access.redhat.com/security/cve/CVE-2023-24593
+CVE-2021-35938,OS,moderate,rpm-build-libs,,https://access.redhat.com/security/cve/CVE-2021-35938
+CVE-2022-3037,OS,low,vim-filesystem,,https://access.redhat.com/security/cve/CVE-2022-3037
+CVE-2023-25180,OS,low,glib2,,https://access.redhat.com/security/cve/CVE-2023-25180
+CVE-2022-3256,OS,low,vim-minimal,,https://access.redhat.com/security/cve/CVE-2022-3256
+CVE-2023-29469,OS,critical,python3-libxml2,,https://access.redhat.com/security/cve/CVE-2023-29469
