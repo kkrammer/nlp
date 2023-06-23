@@ -15,7 +15,7 @@ with open(csvFilePath) as csvFile:
     for csvRow in csvReader:
         cveid = csvRow["CVE ID"]
         data[cveid] = csvRow
-        #print(data)
+        print(data)
         
 
 #Write data to a root node.....
